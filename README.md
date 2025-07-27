@@ -14,11 +14,18 @@ This project helps channel admins:
 - Save time by automating routine tasks
 
 <h2>🚀 Key Features </h2>
+
 - 🔄 Auto-posting ad messages to Telegram channels
+
 - ✅ Payment confirmation system
+
 - 📊 Different types of plans for better choice
 
+
 <h2>⚙️ Technologies Used</h2>
+
 - Python 3.13
+
 - Aiogram
+
 - sqlite3
